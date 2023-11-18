@@ -45,7 +45,7 @@ The Autogen Dialog Assistant is an innovative project that brings characters fro
      
      Output depends on your voices, you can use openai TTS.
 
-     Here is example output: https://github.com/miekki-jerry/jsonToStory/blob/main/example_output.mp3
+     Here is example output: [https://github.com/miekki-jerry/jsonToStory/blob/main/example_output.mp3](https://github.com/miekki-jerry/jsonToStory/blob/main/exmple_output.mp3)
      
 ## Key Features
 
